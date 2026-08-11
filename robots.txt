@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-0lsz4g.yoganacadeira.online/sitemap.xml
